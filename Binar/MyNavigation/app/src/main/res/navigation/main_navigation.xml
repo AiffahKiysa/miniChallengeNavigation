@@ -38,12 +38,12 @@
             app:uri="https://www.binar.com/fragment3/{name}" />
     </fragment>
     <fragment
-        android:id="@+id/profileFragment2"
+        android:id="@+id/profileFragment"
         android:name="com.example.mynavigation.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
-        android:id="@+id/settingsFragment2"
+        android:id="@+id/settingsFragment"
         android:name="com.example.mynavigation.settingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
